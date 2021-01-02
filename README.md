@@ -1,2 +1,1 @@
-Please join our Discord here!                                         
-<img src="https://discordapp.com/api/guilds/749403975379320953/widget.png?style=banner4" alt="Discord Banner 4"/>
+<img src="https://camo.githubusercontent.com/c01bbb6b77784d459801b659ef0e793197ea322bc80d7d51e897d31444925a86/68747470733a2f2f646973636f72642e636f6d2f6170692f6775696c64732f38313338343738383736353731323338342f7769646765742e706e673f7374796c653d62616e6e657231" alt="Widget for the Discord API guild" data-canonical-src="https://discord.com/api/guilds/81384788765712384/widget.png?style=banner1" style="max-width:100%;">
