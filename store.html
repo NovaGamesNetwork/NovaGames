@@ -1,2 +1,59 @@
-// Store Page
-
+<!DOCTYPE html>
+<html>
+<head>
+	<title>NovaGames | Store</title>
+	<meta name="description" content="NovaGames is a revolutionary Minecraft server. You can join with the IP 'play.novagames.ml'.">
+	<meta name="keywords" content="NovaGames, NovaGames Server, NovaGames Minecraft Server, Minecraft, Fun, Play, Portal, Website, Official">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8">
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="css/stylesheet.css">
+	<script src="https://use.fontawesome.com/30155533f0.js"></script>
+	<script type="text/javascript">
+		function mobile() {
+			var bars = document.getElementById("mnav");
+			if(bars.className === "mnav") {
+				bars.className += " responsive";
+			} else {
+				bars.className = "mnav";
+			}
+		}
+	</script>
+</head>
+<body>
+	<header>
+		<div class="nav">
+			<ul class="nav-items" id="nav-items">
+				<a><li onclick="mobile()" class="icon fa fa-bars fa-2x"></li></a>
+				<a href="#main"><li class="h">
+					<div class="overlay"></div>
+					Home
+				</li></a>
+				<a href="forums"><li class="h">
+					<div class="overlay"></div>
+					Forums
+				</li></a>
+				<a href="#games"><li class="h">
+					<div class="overlay"></div>
+					Games
+				</li></a>
+				<a href="#contact"><li class="h">
+					<div class="overlay"></div>
+					Contact Us
+				</li></a>
+			</ul>
+			<div class="mnav" id="mnav">
+				<a href="#main"><li class="i">
+					Home
+				</li></a>
+				<a href="store"><li class="i">
+					Store
+				</li></a>
+				<a href="#games"><li class="i">
+					Games
+				</li></a>
+				<a href="#contact"><li class="i">
+					Contact Us
+				</li></a>
+			</div>
+		</div>
